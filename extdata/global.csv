@@ -1,0 +1,26 @@
+sshd_permit_root_login,no
+client_ntp_servers,0.centos.pool.ntp.org,1.centos.pool.ntp.org,2.centos.pool.ntp.org
+timezone_zone,Etc/UTC
+
+puppet_noop,true
+puppet_svn_user,infrastructure.puppet
+puppet_svn_password,zdZ.6YeMIpqf6
+
+php_max_execution_time,30
+php_max_input_time,60
+php_memory_limit,128M
+php_error_reporting,E_ALL
+php_error_log,/var/log/httpd/php_error.log
+php_post_max_size,8M
+php_upload_max_filesize,2M
+php_date_timezone,UTC
+
+openssl_countrycode,GB
+openssl_province,London
+openssl_locality,London
+openssl_orgname,eCommera Limmited
+openssl_orgunitname,Infrastructure
+openssl_emailaddress,sysadmin@ecommera.co.uk
+
+selinux_selinux,disabled
+
