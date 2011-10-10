@@ -61,3 +61,6 @@
 [submodule "aws"]
 	path = aws
 	url = git@github.com:OSBI/puppet-aws
+[submodule "puppet"]
+	path = puppet
+	url = git@github.com:OSBI/puppet-puppet
