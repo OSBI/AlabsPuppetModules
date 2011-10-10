@@ -1,0 +1,63 @@
+[submodule "augeas"]
+	path = augeas
+	url = git@github.com:OSBI/puppet-augeas.git
+[submodule "os"]
+	path = os
+	url = git@github.com:OSBI/puppet-os.git
+[submodule "sudo"]
+	path = sudo
+	url = git@github.com:OSBI/puppet-sudo.git
+[submodule "ntp"]
+	path = ntp
+	url = git@github.com:OSBI/puppet-ntp.git
+[submodule "ssh"]
+	path = ssh
+	url = git@github.com:OSBI/puppet-ssh.git
+[submodule "motd"]
+	path = motd
+	url = git@github.com:OSBI/puppet-motd.git
+[submodule "nsswitch"]
+	path = nsswitch
+	url = git@github.com:OSBI/puppet-nsswitch.git
+[submodule "timezone"]
+	path = timezone
+	url = git@github.com:OSBI/puppet-timezone.git
+[submodule "nagios"]
+	path = nagios
+	url = git@github.com:OSBI/puppet-nagios.git
+[submodule "mysql"]
+	path = mysql
+	url = git@github.com:OSBI/puppet-mysql
+[submodule "common"]
+	path = common
+	url = git@github.com:OSBI/puppet-common
+[submodule "apt"]
+	path = apt
+	url = git@github.com:OSBI/puppet-apt
+[submodule "tomcat"]
+	path = tomcat
+	url = git@github.com:OSBI/puppet-tomcat
+[submodule "java"]
+	path = java
+	url = git@github.com:OSBI/puppet-java
+[submodule "subversion"]
+	path = subversion
+	url = git@github.com:OSBI/puppet-subversion
+[submodule "iptables"]
+	path = iptables
+	url = git@github.com:OSBI/puppet-iptables
+[submodule "ruby"]
+	path = ruby
+	url = git@github.com:OSBI/puppet-ruby
+[submodule "git"]
+	path = git
+	url = git@github.com:OSBI/puppet-git
+[submodule "osqa"]
+	path = osqa
+	url = git@github.com:OSBI/puppet-osqa
+[submodule "xen"]
+	path = xen
+	url = git@github.com:OSBI/puppet-xen
+[submodule "aws"]
+	path = aws
+	url = git@github.com:OSBI/puppet-aws
