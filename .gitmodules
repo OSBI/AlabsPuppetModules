@@ -73,3 +73,6 @@
 [submodule "locales"]
 	path = locales
 	url = git@github.com:OSBI/puppet-locales.git
+[submodule "puppet-sysctl"]
+	path = puppet-sysctl
+	url = git@github.com:OSBI/puppet-sysctl.git
