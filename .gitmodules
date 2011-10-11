@@ -64,3 +64,9 @@
 [submodule "puppet"]
 	path = puppet
 	url = git@github.com:OSBI/puppet-puppet
+[submodule "user"]
+	path = user
+	url = git@github.com:OSBI/puppet-user
+[submodule "hosts"]
+	path = hosts
+	url = git@github.com:OSBI/puppet-hosts.git
