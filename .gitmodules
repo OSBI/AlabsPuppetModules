@@ -88,3 +88,6 @@
 [submodule "jenkins"]
 	path = jenkins
 	url = git@github.com:OSBI/puppet-jenkins.git
+[submodule "apache"]
+	path = apache
+	url = git@github.com:OSBI/puppet-apache.git
