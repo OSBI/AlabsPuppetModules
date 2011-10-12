@@ -85,3 +85,6 @@
 [submodule "analyticallabs"]
 	path = analyticallabs
 	url = git@github.com:OSBI/puppet-analyticallabs.git
+[submodule "jenkins"]
+	path = jenkins
+	url = git@github.com:OSBI/puppet-jenkins.git
