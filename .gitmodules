@@ -79,3 +79,9 @@
 [submodule "sysctl"]
 	path = sysctl
 	url = git@github.com:OSBI/puppet-sysctl.git
+[submodule "puppet-analyticallabs"]
+	path = puppet-analyticallabs
+	url = git@github.com:OSBI/puppet-analyticallabs.git
+[submodule "analyticallabs"]
+	path = analyticallabs
+	url = git@github.com:OSBI/puppet-analyticallabs.git
