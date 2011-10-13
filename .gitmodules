@@ -91,3 +91,6 @@
 [submodule "apache"]
 	path = apache
 	url = git@github.com:OSBI/puppet-apache.git
+[submodule "saiku"]
+	path = saiku
+	url = git@github.com:OSBI/puppet-saiku.git
