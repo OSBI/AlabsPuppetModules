@@ -94,3 +94,6 @@
 [submodule "saiku"]
 	path = saiku
 	url = git@github.com:OSBI/puppet-saiku.git
+[submodule "artifactory"]
+	path = artifactory
+	url = git@github.com:OSBI/puppet-artifactory.git
