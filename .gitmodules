@@ -97,3 +97,9 @@
 [submodule "artifactory"]
 	path = artifactory
 	url = git@github.com:OSBI/puppet-artifactory.git
+[submodule "puppet-nagios3"]
+	path = puppet-nagios3
+	url = git@github.com:OSBI/puppet-nagios3.git
+[submodule "nagios3"]
+	path = nagios3
+	url = git@github.com:OSBI/puppet-nagios3.git
