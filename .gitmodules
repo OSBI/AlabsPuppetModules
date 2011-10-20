@@ -103,3 +103,6 @@
 [submodule "nagios3"]
 	path = nagios3
 	url = git@github.com:OSBI/puppet-nagios3.git
+[submodule "node"]
+	path = node
+	url = git@github.com:OSBI/puppet-node.git
