@@ -112,3 +112,6 @@
 [submodule "zabbix"]
 	path = zabbix
 	url = git@github.com:OSBI/puppet-zabbix.git
+[submodule "php"]
+	path = php
+	url = git@github.com:OSBI/puppet-php.git
