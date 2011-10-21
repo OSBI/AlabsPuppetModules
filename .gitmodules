@@ -109,3 +109,6 @@
 [submodule "nodejs"]
 	path = nodejs
 	url = git@github.com:OSBI/puppet-nodejs.git
+[submodule "zabbix"]
+	path = zabbix
+	url = git@github.com:OSBI/puppet-zabbix.git
