@@ -115,3 +115,6 @@
 [submodule "php"]
 	path = php
 	url = git@github.com:OSBI/puppet-php.git
+[submodule "postfix"]
+	path = postfix
+	url = git@github.com:OSBI/puppet-postfix.git
